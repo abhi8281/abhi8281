@@ -1,4 +1,4 @@
-![logo](https://github.com/abhi8281/abhi8281/blob/main/Abhishek.png)
+
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
