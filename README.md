@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/followers/abhi8281?style=social) 
 ![](https://img.shields.io/github/stars/abhi8281?style=social)
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐄𝐧𝐣𝐨𝐲 𝐲𝐨𝐮𝐫 𝐯𝐢𝐬𝐢𝐭! <img src="https://cdn3d.iconscout.com/3d/premium/thumb/data-science-9777656-7915330.png" width="30px"></h2>  <img align='right' src="https://cdn3d.iconscout.com/3d/premium/thumb/data-science-7042489-5728351.png?f=webp" width="200">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐄𝐧𝐣𝐨𝐲 𝐲𝐨𝐮𝐫 𝐯𝐢𝐬𝐢𝐭! </h2>  <img align='right' src="https://cdn3d.iconscout.com/3d/premium/thumb/data-science-7042489-5728351.png?f=webp" width="200">
 
 [![Twitter Badge](https://img.shields.io/badge/-@abhishek_8281-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://x.com/abhishek_8281) [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-shinde-269b4122a)](https://www.linkedin.com/in/abhishek-shinde-269b4122a) 
 [![Gmail Badge](https://img.shields.io/badge/-shindeabhishek2199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:shindeabhishek2199@gmail.com)
