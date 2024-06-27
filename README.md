@@ -11,17 +11,17 @@ Data Scientist specializing in Machine Learning, Deep Learning, and statistical 
 
 ## ⚡ Technical Skills
 
-* Programming Languages: **Python, R, SQL, Java, C++**
+* Programming Languages: **Python, SQL, C**
 * Machine Learning: **Supervised and Unsupervised Learning, Regression, Classification, Clustering, Ensemble Methods**
 * Deep Learning: **Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM), Autoencoders**
 * Data Analysis: **Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization, Feature Engineering**
 * Statistics and Mathematics: **Probability Theory, Statistical Inference, Hypothesis Testing, Linear Algebra, Calculus**
-* Tools and Libraries: **TensorFlow, Keras, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn**
-* Big Data Technologies: **Hadoop, Spark, Hive**
+* Tools and Libraries: **TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn**
+* Big Data Technologies: **Hadoop, Spark**
 * Database Management: **MySQL, PostgreSQL**
 * Web Development: **Flask, Django**
 * Cloud Platforms: **AWS, Azure, Google Cloud Platform (GCP)**
-* Version Control: **Git, GitHub, Bitbucket**
+* Version Control: **Git, GitHub**
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
